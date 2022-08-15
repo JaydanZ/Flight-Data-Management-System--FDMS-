@@ -17,5 +17,10 @@ This applications purpose is to provide a visual dashboard to view the most rece
 ![fdms-search](https://user-images.githubusercontent.com/73255741/184705778-0f7e2d8a-65f9-41fb-a24e-90d839f16b5a.PNG)
 This menu also provides the feature to create a log file of the returned aircraft metadata from a query.
  
-## FDMS Class Diagram
-![FDMS-classdiagram](https://user-images.githubusercontent.com/73255741/184703544-9ab80db1-174e-44f7-8c2c-7a45096fae9d.jpg)
+## FDMS Class Diagrams
+
+### Aircraft Transmission System
+![fdms-ats-CD](https://user-images.githubusercontent.com/73255741/184711445-a4d6b8bf-7be0-4657-901f-1025f401a61f.PNG)
+
+### Ground Terminal Desktop Application
+![fdms-groundTerminal-CD](https://user-images.githubusercontent.com/73255741/184711517-ad12b175-27e8-4662-b44b-c8d43cc74899.PNG)
